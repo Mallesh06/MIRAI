@@ -18,9 +18,7 @@ MIRAI is a Streamlit-powered Python application featuring a **Multiverse of Chat
 └── README.md                  # Project documentation
 
 
+# TO CREATE SOMETHING, CHECK OUT THIS ONE...
 
-<h1> TO CREATE SOMETHING, CHECK OUT THIS ONE...<h1>
+## [Image Creator](https://kr2wq4hski48ggtfgti5yq.streamlit.app/)
 
-
-
-# [Image creator](https://kr2wq4hski48ggtfgti5yq.streamlit.app/)
