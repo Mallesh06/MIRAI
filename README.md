@@ -16,7 +16,7 @@ MIRAI is a Streamlit-powered Python application featuring a **Multiverse of Chat
 ├── image_creation.py          # Core logic for the chatbot interfaces
 ├── .gitignore                 # Standard Python git ignore file
 └── README.md                  # Project documentation
-
+```
 
 # TO CREATE SOMETHING, CHECK OUT THIS ONE...
 
